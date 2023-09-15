@@ -2,7 +2,14 @@
 This git repository provides code for a  game(INCOMPLETE yet) named Angry_Birds created using HTML, CSS and JS
 # Angry Birds Rush
 
-!(GAMEPLAY SCREENSHOTS)
+!(GAMEPLAY SCREENSHOTS and VIDEO)
+
+https://github.com/mandalsourajit/angrybirds_game-test/assets/140224488/343e1138-bed5-46e8-9165-f130f13c28ba
+
+
+https://github.com/mandalsourajit/angrybirds_game-test/assets/140224488/47981bd7-c07c-47c1-94aa-e29ad6e4431f
+
+
 ![Angry Birds Rush - Google Chrome 15-09-2023 19_33_29](https://github.com/mandalsourajit/angrybirds_game-test/assets/140224488/9780f3ad-ae0f-4e96-8463-917fe9588354)
 ![Angry Birds Rush - Google Chrome 15-09-2023 19_33_11](https://github.com/mandalsourajit/angrybirds_game-test/assets/140224488/200a8482-2d43-422c-bf8e-16202fd41471)
 ![Angry Birds Rush - Google Chrome 15-09-2023 19_30_50](https://github.com/mandalsourajit/angrybirds_game-test/assets/140224488/d6e5d59f-b8c4-4afd-bd48-bd89f91307c8)
