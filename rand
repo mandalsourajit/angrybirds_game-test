@@ -1,0 +1,28 @@
+obs1.classList.remove('fireball');
+obs1.style.display = 'none';
+obs1.style.left = 2000 + 'px';
+
+obs2.classList.remove('piganimation');
+obs2.style.display = 'none';
+obs2.style.left = 7000 + 'px';
+
+obs10.classList.remove('birdanimation');
+obs10.style.display = 'none';
+obs10.style.left = 7000 + 'px';
+
+obs11.style.display = 'none';
+obs11.style.left = 7000 + 'px';
+
+obs12.style.display = 'none';
+obs12.style.left = 7000 + 'px';
+
+obs13.style.display = 'none';
+obs13.style.left = 7000 + 'px';
+
+obs11.classList.remove('cloud1');
+obs11.style.display = 'none';
+obs11.style.left = 7000 + 'px';
+
+obs11.classList.remove('cloud2');
+obs11.style.display = 'none';
+obs11.style.left = 7000 + 'px';
